@@ -1,9 +1,5 @@
 # Created a app with React + Vite
-# Configured Tailwind css
-
-
-
-
+Configured Tailwind css
 # Features
  -Login/Signup
   -Sign In/Sign Up Form

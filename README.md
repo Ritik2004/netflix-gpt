@@ -1,20 +1,38 @@
-# Created a app with React + Vite
-# Configured Tailwind css
+# 🎬 Netflix GPT
 
+A React + Vite app with Tailwind CSS, featuring authentication and AI-powered movie suggestions.
 
+---
 
+## 🚀 Features
 
-# Features
- -Login/Signup
-  -Sign In/Sign Up Form
- -Browse (after authentication)
-  -Header
-  -Main Movie
-    -Trailer in background
-    -Title and decription
-    -Movie Suggestions
-       -Movie List
+### 🔑 Authentication  
+- **Login/Signup**  
+- **Sign In / Sign Up Form**  
 
- -Netflix GPT
-   -Search Bar
-   -Movie Suggestion
+### 🎥 Browse (After Authentication)  
+- **Header**  
+- **Main Movie Section**  
+  - 🎬 Trailer in background  
+  - 📝 Title and description  
+  - 📌 Movie Suggestions  
+    - 📜 Movie List  
+
+### 🤖 Netflix GPT (AI-Powered Recommendations)  
+- 🔍 **Search Bar**  
+- 🎞️ **Movie Suggestions**  
+
+---
+
+## 🛠️ Tech Stack  
+- React + Vite  
+- Tailwind CSS  
+- Firebase (for authentication)  
+- TMDB API (for movies)  
+
+---
+
+## 📌 Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-username/netflix-gpt.git
